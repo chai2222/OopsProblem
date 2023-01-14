@@ -1,0 +1,17 @@
+D:\C Sharp\JsonProgram\InventoryManagment\bin\Debug\net6.0\InventoryManagment.exe
+D:\C Sharp\JsonProgram\InventoryManagment\bin\Debug\net6.0\InventoryManagment.deps.json
+D:\C Sharp\JsonProgram\InventoryManagment\bin\Debug\net6.0\InventoryManagment.runtimeconfig.json
+D:\C Sharp\JsonProgram\InventoryManagment\bin\Debug\net6.0\InventoryManagment.dll
+D:\C Sharp\JsonProgram\InventoryManagment\bin\Debug\net6.0\InventoryManagment.pdb
+D:\C Sharp\JsonProgram\InventoryManagment\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.csproj.AssemblyReference.cache
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.AssemblyInfoInputs.cache
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.AssemblyInfo.cs
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.csproj.CoreCompileInputs.cache
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.csproj.CopyComplete
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.dll
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\refint\InventoryManagment.dll
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.pdb
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\InventoryManagment.genruntimeconfig.cache
+D:\C Sharp\JsonProgram\InventoryManagment\obj\Debug\net6.0\ref\InventoryManagment.dll
